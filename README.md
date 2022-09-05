@@ -2,7 +2,9 @@
 
 ## Software Requirements
 Python 3.7 and Pytorch 1.5.1 are used for the current codebase. 
+
 We recommend you to create an environment and install necessary packages (e.g., numpy, pickle, pandas, codecs, etc.)
+
 We ran our experiment on NVIDIA GeForce Titan Xp (GPU) or Intel Xeon E5-2637 v4 @ 3.50GHz (CPU), Linux (Ubuntu 16.04), CUDA 10.0, CuDNN 7.6.0.
 
 #### Installation
